@@ -1,8 +1,9 @@
 {
   "name": "KGB-AI",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Kool Gommie Bot AI",
   "main": "bot.js",
+  "repository": "git@github.com:StasConstantine/kgb-ai-bot.git",
   "author": "Stas Constantine",
   "license": "MIT",
   "dependencies": {
